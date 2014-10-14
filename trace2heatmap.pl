@@ -80,7 +80,7 @@ my $max_lat;			# max latency to include
 my $units_lat = "";		# latency units (eg, "us")
 my $units_time;			# time units (eg, "us")
 my $timefactor = 1;		# divisor for time column
-my $limit_col = 10000;		# max permitted columns
+my $limit_col = 100000;		# max permitted columns
 my $debugmsg = 0;		# print debug messages
 my $grid = 0;			# draw grid lines
 
