@@ -94,7 +94,7 @@ GetOptions(
     'stepsec=f'      => \$step_sec,
     'rows=i'         => \$rows,
     'maxcol=i'       => \$max_col,
-    'title=s'        => \$titletext,
+    'titletext=s'        => \$titletext,
     'unitslatency=s' => \$units_lat,
     'unitstime=s'    => \$units_time,
     'grid'           => \$grid
